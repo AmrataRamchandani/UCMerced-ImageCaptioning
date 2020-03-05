@@ -1,0 +1,7 @@
+*****Following Libraries need to be installed*****
+
+Numpy
+Keras
+Pandas
+Pickle
+Matplotlib
